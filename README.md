@@ -1,0 +1,2 @@
+# lenormand
+Lenormand-Deutungsprogramm
